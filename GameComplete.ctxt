@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameComplete
+comment1.params=
+comment1.target=GameComplete()
+comment1.text=\r\n\ Constructor\ -\ Initializes\ the\ win\ screen\ and\ plays\ victory\ music.\r\n
+numComments=2

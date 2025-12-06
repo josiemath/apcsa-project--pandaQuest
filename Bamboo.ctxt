@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bamboo
+comment0.text=\ \r\n\ Obstacle\ bamboo,\ static\ in\ gameplay.\r\n
+comment1.params=
+comment1.target=Bamboo()
+comment1.text=\r\n\ Constructor\ -\ Initializes\ bamboo\ obstacle.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Does\ nothing\ per\ tick;\ bamboo\ is\ static.\r\n
+numComments=3

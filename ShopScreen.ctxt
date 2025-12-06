@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShopScreen
+comment1.params=
+comment1.target=ShopScreen()
+comment1.text=\r\n\ Constructor\ -\ Initializes\ shop\ world,\ music\ and\ UI.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ started\ -\ Play\ looping\ music\ when\ shop\ becomes\ active.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ stopped\ -\ Stop\ music\ when\ leaving\ the\ shop.\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ prepare\ -\ Adds\ navigation\ and\ panda\ skin\ options\ to\ the\ shop\ UI.\r\n
+numComments=5

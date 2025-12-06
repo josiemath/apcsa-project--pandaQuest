@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FinalScoreLabel
+comment1.params=
+comment1.target=FinalScoreLabel()
+comment1.text=\r\n\ Constructor\ -\ Initializes\ score\ label\ graphic\ for\ final\ score.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Removes\ the\ label\ object\ if\ any\ click\ is\ detected.\r\n
+numComments=3

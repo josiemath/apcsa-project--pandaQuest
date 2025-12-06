@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PurplePanda
+comment1.params=
+comment1.target=PurplePanda()
+comment1.text=\r\n\ Constructor\ -\ Sets\ purple\ panda\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Sets\ the\ panda\ color\ to\ purple\ on\ click.\r\n
+numComments=3

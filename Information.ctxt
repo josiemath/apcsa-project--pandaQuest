@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Information
+comment1.params=
+comment1.target=Information()
+comment1.text=\r\n\ Constructor\ -\ Sets\ up\ info\ screen\ dimensions,\ music,\ and\ objects.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ Called\ when\ the\ info\ world\ becomes\ active;\ plays\ music.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ Called\ when\ leaving\ info\ world;\ stops\ music.\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Adds\ navigation\ buttons\ to\ the\ info\ screen.\r\n
+numComments=5

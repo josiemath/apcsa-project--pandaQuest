@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelButton
+comment1.params=
+comment1.target=LevelButton()
+comment1.text=\r\n\ Constructor\ -\ Sets\ default\ image\ for\ level\ button.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Starts\ game\ world\ on\ click,\ and\ updates\ button\ image\ on\ hover.\r\n
+numComments=3

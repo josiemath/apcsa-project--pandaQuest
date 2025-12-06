@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ReplayButton
+comment1.params=
+comment1.target=ReplayButton()
+comment1.text=\r\n\ Constructor\ -\ Sets\ default\ replay\ button\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=Act\ -\ Restarts\ the\ game\ on\ click\ and\ updates\ hover\ appearance;\ special\ handling\ on\ GameComplete.
+numComments=3

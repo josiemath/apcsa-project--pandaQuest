@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rightArrowButton
+comment1.params=
+comment1.target=rightArrowButton()
+comment1.text=\r\n\ Constructor\ -\ Sets\ default\ right\ arrow\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Switches\ to\ Information2\ screen\ on\ click\ and\ updates\ hover\ state.\r\n
+numComments=3

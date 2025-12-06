@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MiniGameSummary
+comment1.params=amount
+comment1.target=MiniGameSummary(int)
+comment1.text=\r\n\ Constructor\ -\ Displays\ summary\ and\ updates\ the\ saved\ score.\r\n
+comment2.params=
+comment2.target=void\ animateResult()
+comment2.text=\r\n\ Animates\ score\ change\ and\ adds\ navigation\ button.\r\n
+numComments=3
