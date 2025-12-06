@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Star
+comment0.text=\r\n\ Star\ actor\ -\ static\ beneficial\ tile\ indicator.\r\n
+comment1.params=
+comment1.target=Star()
+comment1.text=\r\n\ Constructor\ -\ Initializes\ star\ actor.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Star\ has\ no\ per-frame\ behavior.\r\n
+numComments=3
