@@ -6,6 +6,7 @@ import greenfoot.*;
 public class RedPanda extends Actor
 { 
     private static final GreenfootImage NORMAL_IMAGE = new GreenfootImage("redPanda.png");
+    private GreenfootSound clickSound = new GreenfootSound("SelectSound.mp3");
 
     /**
      * Constructor - Sets red panda image.
@@ -23,6 +24,7 @@ public class RedPanda extends Actor
         if (Greenfoot.mouseClicked(this))
         {
             Levels.color = 0;
+            clickSound.play();
             return;
         }
     }    
