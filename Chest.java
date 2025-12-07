@@ -7,6 +7,7 @@ public class Chest extends Actor {
 
     public static int amount = 0;
     private boolean opened = false;
+    private GreenfootSound clickSound = new GreenfootSound("SelectSound.mp3");
 
     /**
      * Act - Opens the chest on click and reveals the random prize.
@@ -14,6 +15,7 @@ public class Chest extends Actor {
     public void act() {
         if (!opened && Greenfoot.mouseClicked(this)) {
             opened = true;
+            clickSound.play();
             openChest();
         }
     }
